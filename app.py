@@ -1,9 +1,12 @@
-# Install required packages
-#pip install flask
+#Techiral
 
-#Or
+''' Install required packages:-
 
-#pip3 install -r requirements.txt
+pip install flask
+Or
+pip3 install -r requirements.txt
+
+'''
 
 #import required libraries
 from flask import Flask
